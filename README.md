@@ -2,7 +2,7 @@
 
 Learning project combining a Telegram bot, API and React mini-app.
 
-Solo-developed by [Vojislav Beric](https://github.com/Smileyface101).
+Solo-developed by [Vojislav Beric](https://github.com/Goodworkid0).
 
 ## What it does
 
